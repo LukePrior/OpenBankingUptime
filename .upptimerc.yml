@@ -27,6 +27,55 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nab-icon.ico
     headers:
       - "x-v: 3"
+      
+  - name: Bank of Queensland (BOQ)
+    url: https://secure.api.boq.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/boq-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Macquarie Bank
+    url: https://api.cdr.bendigobank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/macquarie-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Bendigo Bank
+    url: https://api.anz/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bendigo-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Adelaide Bank
+    url: https://api.cdr.adelaidebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/adelaide-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: AMP
+    url: https://api.cdr-api.amp.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/amp-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Suncorp
+    url: https://prd.suncorpbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/suncorp-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: ING Bank
+    url: https://apic.ing.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/ing-icon.png
+    headers:
+      - "x-v: 3"
+  - name: HSBC Bank
+    url: https://api.hsbc.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hsbc-icon.ico
+    headers:
+      - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
