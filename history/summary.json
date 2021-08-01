@@ -412,7 +412,7 @@
     "timeMonth": 1119,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2021-08-01": 154
+      "2021-08-01": 155
     }
   },
   {
@@ -450,7 +450,7 @@
     "timeMonth": 794,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2021-08-01": 122
+      "2021-08-01": 123
     }
   },
   {
@@ -477,18 +477,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/endeavour-icon.ico",
     "slug": "endeavour-mutual-bank",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2021-08-01": 122
+      "2021-08-01": 123
     }
   },
   {
@@ -749,18 +749,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mystate-icon.png",
     "slug": "my-state-bank",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 902,
     "timeDay": 902,
     "timeWeek": 902,
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2021-08-01": 122
+      "2021-08-01": 123
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "timeMonth": 683,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2021-08-01": 86
+      "2021-08-01": 87
     }
   },
   {
@@ -1259,11 +1259,11 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nicu-icon.png",
     "slug": "northern-inland-credit-union",
     "status": "up",
-    "uptime": "5.11%",
-    "uptimeDay": "5.11%",
-    "uptimeWeek": "5.11%",
-    "uptimeMonth": "5.11%",
-    "uptimeYear": "5.11%",
+    "uptime": "5.80%",
+    "uptimeDay": "5.80%",
+    "uptimeWeek": "5.80%",
+    "uptimeMonth": "5.80%",
+    "uptimeYear": "5.80%",
     "time": 300,
     "timeDay": 300,
     "timeWeek": 300,
@@ -1670,7 +1670,7 @@
     "timeMonth": 813,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2021-08-01": 64
+      "2021-08-01": 65
     }
   },
   {
@@ -1726,7 +1726,7 @@
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2021-08-01": 64
+      "2021-08-01": 65
     }
   },
   {
