@@ -147,6 +147,186 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/circlealliance-icon.ico
     headers:
       - "x-v: 3"
+  - name: Citibank
+    url: https://aspac.api.citi.com/gcb/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/citi-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Delphi Bank
+    url: https://api.cdr.delphibank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/delphi-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Endeavour Mutual Bank
+    url: https://netbank.endeavour.bank/openbankingesb/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/endeavour-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: First Option Bank
+    url: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firstoption-icon.jpeg
+    headers:
+      - "x-v: 3"
+  - name: G&C Mutual Bank
+    url: https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/g&c-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Gateway Bank
+    url: https://public.cdr-api.gatewaybank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/gateway-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Geelong Bank
+    url: https://online.geelongbank.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/geelong-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Goldfields Money
+    url: https://prd.bnk.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/goldfields-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Greater Bank
+    url: https://public.cdr-api.greater.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/greater-icon.webp
+    headers:
+      - "x-v: 3"
+  - name: Heritage Bank
+    url: https://product.api.heritage.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/heritage-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Horizon Bank
+    url: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/horizon-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Hume Bank
+    url: https://ibank.humebank.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hume-icon.ico
+    headers:
+      - "x-v: 3"   
+  - name: IMB Bank
+    url: https://api.openbanking.imb.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/imb-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Judo Bank
+    url: https://open.judo.bank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/judo-icon.png
+    headers:
+      - "x-v: 3"
+  - name: ME Bank
+    url: https://api.mebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mebank-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: MOVE Bank
+    url: https://api.movebank.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/movebank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: MyLife MyFinance
+    url: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mylifemyfinance-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: MyState Bank
+    url: https://openbanking.api.mystate.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mystate-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Nova Alliance Bank
+    url: https://api.cdr.novaalliancebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/novaalliance-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Qudos Bank
+    url: https://public.cdr-api.qudosbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/qudosbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Queensland Country Bank
+    url: https://public.cdr-api.queenslandcountry.bank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/queenslandcountry-icon.png
+    headers:
+      - "x-v: 3"
+  - name: RACQ Bank
+    url: https://cdrbank.racq.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/racq-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Rabobank
+    url: https://openbanking.api.rabobank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rabobank-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Regional Australia Bank
+    url: https://public-data.cdr.regaustbank.io/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rab-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Rural Bank
+    url: https://api.cdr.ruralbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/ruralbank-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Service One Alliance Bank
+    url: https://api.cdr.serviceone.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/serviceone-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Sydney Mutual Bank
+    url: https://internetbanking.sydneymutual.bank/openbankingscu/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/sydneymutual-icon.png
+    headers:
+      - "x-v: 3"
+  - name: UBank
+    url: https://openbank.api.ubank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/ubank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Unity Bank
+    url: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/unitybank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Virgin Money Australia
+    url: https://secure.api.virginmoney.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/virginmoney-icon.ico
+    headers:
+      - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
