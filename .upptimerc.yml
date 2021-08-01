@@ -6,32 +6,30 @@ sites:
   - name: Commonwealth Bank of Australia (CBA)
     url: https://api.commbank.com.au/public/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: /assets/cba-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cba-icon.ico
     headers:
       - "x-v: 3"
   - name: Westpac Banking Corporation (Westpac)
     url: https://digital-api.westpac.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: /assets/westpac-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/westpac-icon.ico
     headers:
       - "x-v: 3"
   - name: Australia and New Zealand Banking Group (ANZ)
     url: https://api.anz/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: /assets/anz-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/anz-icon.ico
     headers:
       - "x-v: 3"
   - name: National Australia Bank (NAB)
     url: https://openbank.api.nab.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: /assets/nab-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nab-icon.ico
     headers:
       - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
-  favicon: /assets/cdr-icon.ico
-  logoUrl: /assets/cdr-logo.ico
   name: Australian Open Banking API Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This status page shows the status of Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
