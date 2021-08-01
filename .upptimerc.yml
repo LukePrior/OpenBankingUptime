@@ -418,7 +418,7 @@ sites:
     headers:
       - "x-v: 3"
   - name: Northern Inland Credit Union
-    url: http://nicu.prd.cdr.systems/cds-au/v1/banking/products
+    url: https://prd.nicu.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nicu-icon.png
     headers:
