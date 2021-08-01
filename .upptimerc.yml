@@ -583,10 +583,10 @@ sites:
 status-website:
   baseUrl: /OpenBankingUptime
   name: Australian Open Banking API Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Open Banking** uptime monitor and status page, powered entirely by GitHub."
   introMessage: This status page shows the status of Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
   navbar:
     - title: Status
-      href: /
+      href: /OpenBankingUptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
