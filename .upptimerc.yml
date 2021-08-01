@@ -489,6 +489,96 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bcu-icon.ico
     headers:
       - "x-v: 3"
+  - name: 86 400
+    url: https://public.cdr-api.86400.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/86400-icon.webp
+    headers:
+      - "x-v: 3"
+  - name: Up
+    url: https://api.up.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/up-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Volt Bank
+    url: https://api.voltbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/volt-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Australian Military Bank
+    url: https://public.open.australianmilitarybank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmilitary-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: BankVic
+    url: https://ib.bankvic.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankvic-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Defence Bank
+    url: http://defencebank.prd.cdr.systems/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/defensebank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Fire Service Credit Union
+    url: https://public.cdr-api.fscu.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/fscu-icon.png
+    headers:
+      - "x-v: 3"
+  - name: P&N Bank
+    url: https://ob-api.pnbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/pnbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Police Bank
+    url: https://product.api.policebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/policebank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Police Credit Union
+    url: https://api.policecu.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/policecu-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: QBANK
+    url: https://banking.qbank.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/qbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: RSL Money
+    url: https://public.open.rslmoney.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rslmoney-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Teachers Mutual Bank
+    url: https://ob.tmbl.com.au/tmbank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/teachersmutual-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Traditional Credit Union
+    url: http://tcu.prd.cdr.systems/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/tcu-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Woolworths Team Bank
+    url: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/wtm-icon.png
+    headers:
+      - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
