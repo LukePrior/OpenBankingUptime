@@ -41,19 +41,17 @@
     "icon": "/assets/anz-icon.ico",
     "slug": "australia-and-new-zealand-banking-group-anz",
     "status": "up",
-    "uptime": "0.85%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1675,
     "timeDay": 1675,
     "timeWeek": 1675,
     "timeMonth": 1675,
     "timeYear": 1675,
-    "dailyMinutesDown": {
-      "2021-08-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "National Australia Bank (NAB)",
