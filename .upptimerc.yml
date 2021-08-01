@@ -4,33 +4,33 @@ repo: OpenBankingUptime # The name of this repository
 
 sites:
   - name: Commonwealth Bank of Australia (CBA)
-    url: https://api.commbank.com.au/public/cds-au/v1
-    icon: https://www.commbank.com.au/favicon.ico
+    url: https://api.commbank.com.au/public/cds-au/v1/banking/products
+    icon: /assets/cba-icon.ico
     headers:
       - "x-v: 3"
   - name: Westpac Banking Corporation (Westpac)
-    url: https://digital-api.westpac.com.au/cds-au/v1
-    icon: https://www.westpac.com.au/etc/designs/wbc/clientlib-all/favicon.ico
+    url: https://digital-api.westpac.com.au/cds-au/v1/banking/products
+    icon: /assets/westpac-icon.ico
     headers:
       - "x-v: 3"
   - name: Australia and New Zealand Banking Group (ANZ)
-    url: https://api.anz/cds-au/v1
-    icon: https://www.anz.com/favicon.ico
+    url: https://api.anz/cds-au/v1/banking/products
+    icon: /assets/anz-icon.ico
     headers:
       - "x-v: 3"
   - name: National Australia Bank (NAB)
-    url: https://openbank.api.nab.com.au/cds-au/v1
-    icon: https://www.nab.com.au/favicon.ico
+    url: https://openbank.api.nab.com.au/cds-au/v1/banking/products
+    icon: /assets/nab-icon.ico
     headers:
       - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
-  favicon: https://www.cdr.gov.au/themes/custom/cdr/favicon.ico
-  logoUrl: https://internationalfintech.com/wp-content/uploads/2021/02/CDR.png
+  favicon: /assets/cdr-icon.ico
+  logoUrl: /assets/cdr-logo.ico
   name: Australian Open Banking API Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which shows the status of Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
+  introMessage: This status page shows the status of Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
   navbar:
     - title: Status
       href: /
