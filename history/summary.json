@@ -5,19 +5,17 @@
     "icon": "/assets/cba-icon.ico",
     "slug": "commonwealth-bank-of-australia-cba",
     "status": "up",
-    "uptime": "3.40%",
-    "uptimeDay": "3.40%",
-    "uptimeWeek": "3.40%",
-    "uptimeMonth": "3.40%",
-    "uptimeYear": "3.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1510,
     "timeDay": 1510,
     "timeWeek": 1510,
     "timeMonth": 1510,
     "timeYear": 1510,
-    "dailyMinutesDown": {
-      "2021-08-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Westpac Banking Corporation (Westpac)",
@@ -25,19 +23,17 @@
     "icon": "/assets/westpac-icon.ico",
     "slug": "westpac-banking-corporation-westpac",
     "status": "up",
-    "uptime": "3.49%",
-    "uptimeDay": "3.49%",
-    "uptimeWeek": "3.49%",
-    "uptimeMonth": "3.49%",
-    "uptimeYear": "3.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7285,
     "timeDay": 7285,
     "timeWeek": 7285,
     "timeMonth": 7285,
     "timeYear": 7285,
-    "dailyMinutesDown": {
-      "2021-08-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australia and New Zealand Banking Group (ANZ)",
@@ -45,11 +41,11 @@
     "icon": "/assets/anz-icon.ico",
     "slug": "australia-and-new-zealand-banking-group-anz",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -65,18 +61,16 @@
     "icon": "/assets/nab-icon.ico",
     "slug": "national-australia-bank-nab",
     "status": "up",
-    "uptime": "0.81%",
-    "uptimeDay": "0.81%",
-    "uptimeWeek": "0.81%",
-    "uptimeMonth": "0.81%",
-    "uptimeYear": "0.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1769,
     "timeDay": 1769,
     "timeWeek": 1769,
     "timeMonth": 1769,
     "timeYear": 1769,
-    "dailyMinutesDown": {
-      "2021-08-01": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
