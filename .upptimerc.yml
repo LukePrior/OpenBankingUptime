@@ -75,6 +75,79 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hsbc-icon.ico
     headers:
       - "x-v: 3"
+      
+  - name: AWA Alliance Bank
+    url: https://api.cdr.awaalliancebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/awa-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Arab Bank Australia
+    url: https://openbanking-api.arabbank.com.au/public/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/arab-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Australian Unity Bank
+    url: https://open-banking.australianunity.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianunity-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Auswide Bank
+    url: https://api.auswidebank.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/auswide-icon.png
+    headers:
+      - "x-v: 3"
+  - name: BDCU Alliance Bank
+    url: https://api.cdr.bdcualliancebank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bdcu-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Bank Australia
+    url: https://cds.api.bankaust.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankaustralia-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Bank of China Australia
+    url: https://obdevp.bank-of-china.net.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankchina-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Bank of Sydney
+    url: https://openbank.api.banksyd.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/banksydney-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Bankwest
+    url: https://open-api.bankwest.com.au/bwpublic/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankwest-icon.ico
+    headers:
+      - "x-v: 3"
+  - name: Beyond Bank Australia
+    url: https://public.cdr.api.beyondbank.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/beyondbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Cairns Bank
+    url: https://ibanking.cairnsbank.com.au/openbanking-penny/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cairnsbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Circle Alliance Bank
+    url: https://api.cdr.circle.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/circlealliance-icon.ico
+    headers:
+      - "x-v: 3"
 
 status-website:
   baseUrl: /OpenBankingUptime
