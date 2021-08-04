@@ -583,11 +583,10 @@ sites:
 
 status-website:
   baseUrl: /OpenBankingUptime
-  name: Australian Open Banking API Uptime
-  introTitle: "**Open Banking** uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page shows the status of Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
+  introTitle: "**Australian Open Banking** uptime monitor and status page."
+  introMessage: This status page shows the status of all the Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
   theme: dark
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/e36b24b4108930d2a143f7769cde0c5e5f940748/assets/cdr-logo.png
   navbar:
     - title: Status
       href: /OpenBankingUptime
