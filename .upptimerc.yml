@@ -6,61 +6,61 @@ sites:
   - name: Commonwealth Bank of Australia (CBA)
     url: https://api.commbank.com.au/public/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cba-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cba-icon.png
     headers:
       - "x-v: 3"
   - name: Westpac Banking Corporation (Westpac)
     url: https://digital-api.westpac.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/westpac-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/westpac-icon.png
     headers:
       - "x-v: 3"
   - name: Australia and New Zealand Banking Group (ANZ)
     url: https://api.anz/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/anz-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/anz-icon.png
     headers:
       - "x-v: 3"
   - name: National Australia Bank (NAB)
     url: https://openbank.api.nab.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nab-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nab-icon.png
     headers:
       - "x-v: 3"
   - name: Bank of Queensland (BOQ)
     url: https://secure.api.boq.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/boq-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/boq-icon.png
     headers:
       - "x-v: 3"
   - name: Macquarie Bank
     url: https://api.macquariebank.io/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/macquarie-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/macquarie-icon.png
     headers:
       - "x-v: 3"
   - name: Bendigo Bank
     url: https://api.cdr.bendigobank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bendigo-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bendigo-icon.png
     headers:
       - "x-v: 3"
   - name: Adelaide Bank
     url: https://api.cdr.adelaidebank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/adelaide-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/adelaide-icon.png
     headers:
       - "x-v: 3"
   - name: AMP
     url: https://api.cdr-api.amp.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/amp-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/amp-icon.png
     headers:
       - "x-v: 3"
   - name: Suncorp
     url: https://prd.suncorpbank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/suncorp-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/suncorp-icon.png
     headers:
       - "x-v: 3"
   - name: ING Bank
@@ -72,25 +72,25 @@ sites:
   - name: HSBC Bank
     url: https://api.hsbc.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hsbc-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hsbc-icon.png
     headers:
       - "x-v: 3"   
   - name: AWA Alliance Bank
     url: https://api.cdr.awaalliancebank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/awa-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/awa-icon.png
     headers:
       - "x-v: 3"
   - name: Arab Bank Australia
     url: https://openbanking-api.arabbank.com.au/public/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/arab-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/arab-icon.png
     headers:
       - "x-v: 3"
   - name: Australian Unity Bank
     url: https://open-banking.australianunity.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianunity-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianunity-icon.png
     headers:
       - "x-v: 3"
   - name: Auswide Bank
@@ -102,7 +102,7 @@ sites:
   - name: BDCU Alliance Bank
     url: https://api.cdr.bdcualliancebank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bdcu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bdcu-icon.png
     headers:
       - "x-v: 3"
   - name: Bank Australia
@@ -114,19 +114,19 @@ sites:
   - name: Bank of China Australia
     url: https://obdevp.bank-of-china.net.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankchina-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankchina-icon.png
     headers:
       - "x-v: 3"
   - name: Bank of Sydney
     url: https://openbank.api.banksyd.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/banksydney-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/banksydney-icon.png
     headers:
       - "x-v: 3"
   - name: Bankwest
     url: https://open-api.bankwest.com.au/bwpublic/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankwest-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankwest-icon.png
     headers:
       - "x-v: 3"
   - name: Beyond Bank Australia
@@ -144,32 +144,32 @@ sites:
   - name: Circle Alliance Bank
     url: https://api.cdr.circle.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/circlealliance-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/circlealliance-icon.png
     headers:
       - "x-v: 3"
   - name: Citibank
     url: https://aspac.api.citi.com/gcb/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/citi-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/citi-icon.png
     headers:
       - "x-v: 3"
       - "Accept: application/json"
   - name: Delphi Bank
     url: https://api.cdr.delphibank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/delphi-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/delphi-icon.png
     headers:
       - "x-v: 3"
   - name: Endeavour Mutual Bank
     url: https://netbank.endeavour.bank/openbankingesb/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/endeavour-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/endeavour-icon.png
     headers:
       - "x-v: 3"
   - name: First Option Bank
     url: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firstoption-icon.jpeg
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firstoption-icon.png
     headers:
       - "x-v: 3"
   - name: G&C Mutual Bank
@@ -187,7 +187,7 @@ sites:
   - name: Geelong Bank
     url: https://online.geelongbank.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/geelong-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/geelong-icon.png
     headers:
       - "x-v: 3"
   - name: Goldfields Money
@@ -199,13 +199,13 @@ sites:
   - name: Greater Bank
     url: https://public.cdr-api.greater.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/greater-icon.webp
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/greater-icon.png
     headers:
       - "x-v: 3"
   - name: Heritage Bank
     url: https://product.api.heritage.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/heritage-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/heritage-icon.png
     headers:
       - "x-v: 3"
   - name: Horizon Bank
@@ -217,7 +217,7 @@ sites:
   - name: Hume Bank
     url: https://ibank.humebank.com.au/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hume-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hume-icon.png
     headers:
       - "x-v: 3"   
   - name: IMB Bank
@@ -235,7 +235,7 @@ sites:
   - name: ME Bank
     url: https://api.mebank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mebank-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mebank-icon.png
     headers:
       - "x-v: 3"
   - name: MOVE Bank
@@ -247,7 +247,7 @@ sites:
   - name: MyLife MyFinance
     url: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mylifemyfinance-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mylifemyfinance-icon.png
     headers:
       - "x-v: 3"
   - name: MyState Bank
@@ -259,7 +259,7 @@ sites:
   - name: Nova Alliance Bank
     url: https://api.cdr.novaalliancebank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/novaalliance-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/novaalliance-icon.png
     headers:
       - "x-v: 3"
   - name: Qudos Bank
@@ -283,7 +283,7 @@ sites:
   - name: Rabobank
     url: https://openbanking.api.rabobank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rabobank-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rabobank-icon.png
     headers:
       - "x-v: 3"
   - name: Regional Australia Bank
@@ -295,13 +295,13 @@ sites:
   - name: Rural Bank
     url: https://api.cdr.ruralbank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/ruralbank-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/ruralbank-icon.png
     headers:
       - "x-v: 3"
   - name: Service One Alliance Bank
     url: https://api.cdr.serviceone.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/serviceone-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/serviceone-icon.png
     headers:
       - "x-v: 3"
   - name: Sydney Mutual Bank
@@ -325,19 +325,19 @@ sites:
   - name: Virgin Money Australia
     url: https://secure.api.virginmoney.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/virginmoney-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/virginmoney-icon.png
     headers:
       - "x-v: 3"
   - name: Bank First
     url: https://ibank.bankfirst.com.au/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankfirst-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankfirst-icon.png
     headers:
       - "x-v: 3"
   - name: Broken Hill Community Credit Union
     url: https://public.cdr-api.bhccu.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bhccu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bhccu-icon.png
     headers:
       - "x-v: 3"
   - name: Central West Credit Union
@@ -349,13 +349,13 @@ sites:
   - name: Coastline Credit Union
     url: https://public.cdr-api.coastline.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/coastline-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/coastline-icon.png
     headers:
       - "x-v: 3"
   - name: Community First Credit Union
     url: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/communityfirst-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/communityfirst-icon.png
     headers:
       - "x-v: 3"   
   - name: Great Southern Bank
@@ -367,19 +367,19 @@ sites:
   - name: Credit Union SA
     url: https://openbanking.api.creditunionsa.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/creditunionsa-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/creditunionsa-icon.png
     headers:
       - "x-v: 3"
   - name: Dnister Ukrainian Credit Co-operative
     url: https://public.cdr-api.dnister.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/dnister-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/dnister-icon.png
     headers:
       - "x-v: 3"
   - name: Easy Street Financial Services
     url: https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/easystreet-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/easystreet-icon.png
     headers:
       - "x-v: 3"
   - name: Family First Credit Union
@@ -391,13 +391,13 @@ sites:
   - name: First Choice Credit Union
     url: https://public.cdr-api.firstchoicecu.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firstchoice-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firstchoice-icon.png
     headers:
       - "x-v: 3"
   - name: Goulburn Murray Credit Union
     url: https://gmcu.cds.cuscal.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/gmcu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/gmcu-icon.png
     headers:
       - "x-v: 3"
   - name: Illawarra Credit Union
@@ -409,13 +409,13 @@ sites:
   - name: Laboratories Credit Union
     url: https://internetbanking.lcu.com.au/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/lcu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/lcu-icon.png
     headers:
       - "x-v: 3"
   - name: Newcastle Permanent Building Society
     url: https://api.newcastlepermanent.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/npbs-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/npbs-icon.png
     headers:
       - "x-v: 3"
   - name: Northern Inland Credit Union
@@ -427,13 +427,13 @@ sites:
   - name: Peoples Choice Credit Union
     url: https://api.peopleschoice.com.au/public/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/peopleschoice-icon.bmp
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/peopleschoice-icon.png
     headers:
       - "x-v: 3"
   - name: South West Credit Union
     url: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/swcredit-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/swcredit-icon.png
     headers:
       - "x-v: 3"
   - name: South West Slopes Credit Union
@@ -451,13 +451,13 @@ sites:
   - name: Summerland Credit Union
     url: https://public.cdr-api.summerland.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/summerlandcu-icon.gif
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/summerlandcu-icon.png
     headers:
       - "x-v: 3"
   - name: The Capricornian
     url: https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/capricornian-icon.jpg
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/capricornian-icon.png
     headers:
       - "x-v: 3"
   - name: The Mac Credit Union
@@ -475,7 +475,7 @@ sites:
   - name: WAW Credit Union
     url: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/waw-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/waw-icon.png
     headers:
       - "x-v: 3"
   - name: Warwick Credit Union
@@ -487,31 +487,31 @@ sites:
   - name: bcu
     url: https://ob-api.bcu.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bcu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bcu-icon.png
     headers:
       - "x-v: 3"
   - name: 86 400
     url: https://public.cdr-api.86400.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/86400-icon.webp
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/86400-icon.png
     headers:
       - "x-v: 3"
   - name: Up
     url: https://api.up.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/up-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/up-icon.png
     headers:
       - "x-v: 3"
   - name: Volt Bank
     url: https://api.voltbank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/volt-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/volt-icon.png
     headers:
       - "x-v: 3"
   - name: Australian Military Bank
     url: https://public.open.australianmilitarybank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmilitary-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmilitary-icon.png
     headers:
       - "x-v: 3"
   - name: BankVic
@@ -547,7 +547,7 @@ sites:
   - name: Police Credit Union
     url: https://api.policecu.com.au/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/policecu-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/policecu-icon.png
     headers:
       - "x-v: 3"
   - name: QBANK
@@ -565,7 +565,7 @@ sites:
   - name: Teachers Mutual Bank
     url: https://ob.tmbl.com.au/tmbank/cds-au/v1/banking/products
     __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/teachersmutual-icon.ico
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/teachersmutual-icon.png
     headers:
       - "x-v: 3"
   - name: Traditional Credit Union
