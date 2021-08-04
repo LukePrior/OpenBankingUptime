@@ -593,6 +593,3 @@ status-website:
       href: /OpenBankingUptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-workflowSchedule:
-  uptime: "0 0 5 31 2 ?"
