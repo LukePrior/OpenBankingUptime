@@ -586,6 +586,78 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/wtm-icon.png
     headers:
       - "x-v: 3"
+  - name: Bank of us
+    url: https://api.bankofus.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankofus-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Central Murray Credit Union
+    url: https://secure.cmcu.com.au/openbanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/centralmurraycu-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Firefighters Mutual Bank
+    url: https://ob.tmbl.com.au/fmbank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/firefightersmutual-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Health Professionals Bank
+    url: https://ob.tmbl.com.au/hpbank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/healthprofessionals-icon.png
+    headers:
+      - "x-v: 3"
+  - name: The Mutual Bank
+    url: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mutualbank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Orange Credit Union
+    url: https://online.orangecu.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/orangecredit-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Pulse Credit Union
+    url: https://public.cdr-api.pulsecredit.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/pulsecu-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Unibank
+    url: https://ob.tmbl.com.au/unibank/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/unibank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: BOQ Specialist
+    url: https://secure.api.boqspecialist.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/boqspecialist-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Leveraged
+    url: https://api.cdr.leveraged.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/leveraged-icon.png
+    headers:
+      - "x-v: 3"
+  - name: PayPal
+    url: https://api.paypal.com/v1/identity/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/paypal-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Tyro
+    url: https://public.cdr.tyro.com/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/tyro-icon.png
+    headers:
+      - "x-v: 3"
   - name: Consumer Data Right Register
     url: https://api.cdr.gov.au/cdr-register/v1/banking/register
     __dangerous__insecure: true
