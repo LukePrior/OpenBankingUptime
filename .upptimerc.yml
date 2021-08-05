@@ -1,6 +1,5 @@
-# Change these first
-owner: LukePrior # Your GitHub organization or username, where this repository lives
-repo: OpenBankingUptime # The name of this repository
+owner: LukePrior
+repo: OpenBankingUptime
 
 sites:
   - name: Australia and New Zealand Banking Group
