@@ -484,7 +484,7 @@
     "timeMonth": 1104,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2021-08-05": 825,
+      "2021-08-05": 833,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -546,7 +546,7 @@
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2021-08-05": 825,
+      "2021-08-05": 833,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -577,11 +577,11 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/citi-icon.png",
     "slug": "citibank",
     "status": "up",
-    "uptime": "32.59%",
+    "uptime": "32.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "32.59%",
-    "uptimeMonth": "32.59%",
-    "uptimeYear": "32.59%",
+    "uptimeWeek": "32.69%",
+    "uptimeMonth": "32.69%",
+    "uptimeYear": "32.69%",
     "time": 1182,
     "timeDay": 1232,
     "timeWeek": 1182,
@@ -618,18 +618,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/communityfirst-icon.png",
     "slug": "community-first-credit-union",
     "status": "down",
-    "uptime": "96.87%",
-    "uptimeDay": "86.94%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
+    "uptime": "96.74%",
+    "uptimeDay": "86.37%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "96.74%",
     "time": 1303,
     "timeDay": 1232,
     "timeWeek": 1303,
     "timeMonth": 1303,
     "timeYear": 1303,
     "dailyMinutesDown": {
-      "2021-08-05": 188
+      "2021-08-05": 196
     }
   },
   {
@@ -656,11 +656,11 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/defensebank-icon.png",
     "slug": "defence-bank",
     "status": "up",
-    "uptime": "31.92%",
+    "uptime": "32.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.92%",
-    "uptimeMonth": "31.92%",
-    "uptimeYear": "31.92%",
+    "uptimeWeek": "32.01%",
+    "uptimeMonth": "32.01%",
+    "uptimeYear": "32.01%",
     "time": 740,
     "timeDay": 1176,
     "timeWeek": 740,
@@ -715,18 +715,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/easystreet-icon.png",
     "slug": "easy-street-financial-services",
     "status": "down",
-    "uptime": "96.80%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "uptime": "96.67%",
+    "uptimeDay": "86.06%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
     "time": 1203,
     "timeDay": 1119,
     "timeWeek": 1203,
     "timeMonth": 1203,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2021-08-05": 193
+      "2021-08-05": 201
     }
   },
   {
@@ -746,7 +746,7 @@
     "timeMonth": 834,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2021-08-05": 825,
+      "2021-08-05": 833,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -1226,19 +1226,19 @@
     "url": "https://api.movebank.com.au/OpenBanking/cds-au/v1/banking/products",
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/movebank-icon.png",
     "slug": "move-bank",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1910,
-    "timeDay": 1944,
-    "timeWeek": 1910,
-    "timeMonth": 1910,
-    "timeYear": 1910,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1900,
+    "timeDay": 1906,
+    "timeWeek": 1900,
+    "timeMonth": 1900,
+    "timeYear": 1900,
     "dailyMinutesDown": {
-      "2021-08-05": 1
+      "2021-08-05": 8
     }
   },
   {
@@ -1283,11 +1283,11 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/mystate-icon.png",
     "slug": "my-state-bank",
     "status": "up",
-    "uptime": "31.39%",
+    "uptime": "31.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.39%",
-    "uptimeMonth": "31.39%",
-    "uptimeYear": "31.39%",
+    "uptimeWeek": "31.49%",
+    "uptimeMonth": "31.49%",
+    "uptimeYear": "31.49%",
     "time": 1429,
     "timeDay": 1809,
     "timeWeek": 1429,
@@ -1373,7 +1373,7 @@
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2021-08-05": 227
+      "2021-08-05": 236
     }
   },
   {
@@ -1501,7 +1501,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2021-08-05": 825,
+      "2021-08-05": 833,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -1759,7 +1759,7 @@
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2021-08-05": 825,
+      "2021-08-05": 833,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
