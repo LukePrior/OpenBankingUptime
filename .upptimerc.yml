@@ -586,6 +586,10 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/wtm-icon.png
     headers:
       - "x-v: 3"
+  - name: Consumer Data Right Register
+    url: https://api.cdr.gov.au/cdr-register/v1/banking/register
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cdr-icon.png
 
 status-website:
   baseUrl: /OpenBankingUptime
