@@ -1,7 +1,7 @@
 # [📈 Live Status](https://LukePrior.github.io/OpenBankingUptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for the [Australian Open Banking Data Database
-](https://github.com/LukePrior/Australian-Open-Banking-Data-Database), powered by [Upptime](https://github.com/upptime/upptime).
+](https://github.com/LukePrior/Australian-Open-Banking-Data-Database).
 
 [![Uptime CI](https://github.com/LukePrior/OpenBankingUptime/workflows/Uptime%20CI/badge.svg)](https://github.com/LukePrior/OpenBankingUptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/LukePrior/OpenBankingUptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/LukePrior/OpenBankingUptime/actions?query=workflow%3A%22Response+Time+CI%22)
