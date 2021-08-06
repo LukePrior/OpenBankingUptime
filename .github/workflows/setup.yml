@@ -17,6 +17,7 @@ on:
   workflow_dispatch:
 jobs:
   release:
+    runs-on: ubuntu-18.04
     name: Setup Upptime
     steps:
       - name: Checkout
