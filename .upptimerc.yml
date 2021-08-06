@@ -664,6 +664,9 @@ sites:
 
 # runner: [self-hosted]
 
+workflowSchedule:
+  uptime: "10 2 * * *"
+
 status-website:
   baseUrl: /OpenBankingUptime
   name: Australian Open Banking Status
