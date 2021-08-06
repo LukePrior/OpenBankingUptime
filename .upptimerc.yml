@@ -674,7 +674,7 @@ i18n:
 
 status-website:
   baseUrl: /OpenBankingUptime
-  logoUrl: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/blank.png
+  logoUrl: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/nonexistant.png
   name: Open Banking Status
   introTitle: "**Australian Open Banking** uptime monitor and status page."
   introMessage: This status page shows the status of all the Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
