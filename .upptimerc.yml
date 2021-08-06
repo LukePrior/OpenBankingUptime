@@ -666,6 +666,9 @@ sites:
 
 workflowSchedule:
   uptime: "10 2 * * *"
+  
+i18n:
+  footer: This page was created by [Luke Prior](https://github.com/LukePrior)
 
 status-website:
   baseUrl: /OpenBankingUptime
