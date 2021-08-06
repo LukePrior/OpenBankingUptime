@@ -671,6 +671,6 @@ status-website:
   introMessage: This status page shows the status of all the Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
   navbar:
     - title: Home
-      href: /
+      href: /OpenBankingUptime
     - title: GitHub
       href: https://github.com/LukePrior/OpenBankingUptime
