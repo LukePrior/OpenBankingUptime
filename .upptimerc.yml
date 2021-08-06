@@ -667,16 +667,17 @@ sites:
 workflowSchedule:
   uptime: "10 2 * * *"
   
+skipTopicsUpdate: true
+  
 i18n:
   footer: This page was created by [Luke Prior](https://github.com/LukePrior)
 
 status-website:
   baseUrl: /OpenBankingUptime
-  name: Australian Open Banking Status
+  logoUrl: https://lukeprior.github.io/nonexistant.png
+  name: Open Banking Status
   introTitle: "**Australian Open Banking** uptime monitor and status page."
   introMessage: This status page shows the status of all the Australian Open Banking API endpoints using **real-time** data from our [GitHub repository](https://github.com/LukePrior/OpenBankingUptime).
   navbar:
-    - title: Home
-      href: /OpenBankingUptime
     - title: GitHub
       href: https://github.com/LukePrior/OpenBankingUptime
