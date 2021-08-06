@@ -662,6 +662,8 @@ sites:
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cdr-icon.png
 
+runner: [self-hosted]
+
 status-website:
   baseUrl: /OpenBankingUptime
   name: Australian Open Banking Status
