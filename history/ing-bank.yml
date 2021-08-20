@@ -1,7 +1,7 @@
 url: https://apic.ing.com.au/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 906
-lastUpdated: 2021-08-19T23:13:23.519Z
+status: down
+code: 504
+responseTime: 21102
+lastUpdated: 2021-08-20T18:38:27.291Z
 startTime: Sun Aug 01 2021 08:00:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
