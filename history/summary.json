@@ -486,7 +486,7 @@
     "timeMonth": 1144,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2021-08-30": 1009,
+      "2021-08-30": 1014,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
@@ -809,7 +809,7 @@
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2021-08-30": 1009,
+      "2021-08-30": 1014,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
@@ -1322,7 +1322,7 @@
     "status": "up",
     "uptime": "97.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.20%",
+    "uptimeWeek": "95.25%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "97.67%",
     "time": 3144,
@@ -1476,7 +1476,7 @@
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2021-08-30": 1010,
+      "2021-08-30": 1014,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
@@ -1822,19 +1822,19 @@
     "url": "https://online.swscu.com.au/OpenBanking/cds-au/v1/banking/products",
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/swscu-icon.png",
     "slug": "south-west-slopes-credit-union",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 1202,
-    "timeDay": 1932,
-    "timeWeek": 1297,
-    "timeMonth": 1202,
-    "timeYear": 1202,
+    "time": 1305,
+    "timeDay": 3848,
+    "timeWeek": 2006,
+    "timeMonth": 1305,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2021-08-30": 66
+      "2021-08-30": 69
     }
   },
   {
@@ -1908,7 +1908,7 @@
     "timeMonth": 786,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2021-08-30": 1010,
+      "2021-08-30": 1014,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
@@ -2073,19 +2073,19 @@
     "url": "https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1/banking/products",
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/unitybank-icon.png",
     "slug": "unity-bank",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1286,
-    "timeDay": 1448,
-    "timeWeek": 1420,
-    "timeMonth": 1286,
-    "timeYear": 1286,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1399,
+    "timeDay": 3874,
+    "timeWeek": 2084,
+    "timeMonth": 1399,
+    "timeYear": 1399,
     "dailyMinutesDown": {
-      "2021-08-30": 91
+      "2021-08-30": 95
     }
   },
   {
