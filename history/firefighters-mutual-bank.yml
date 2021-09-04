@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/fmbank/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 2083
-lastUpdated: 2021-09-04T13:27:15.670Z
+status: up
+code: 200
+responseTime: 1484
+lastUpdated: 2021-09-04T17:23:27.084Z
 startTime: Thu Aug 05 2021 09:57:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
