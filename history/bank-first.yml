@@ -1,7 +1,7 @@
 url: https://ibank.bankfirst.com.au/openbanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1214
-lastUpdated: 2021-09-03T23:12:19.138Z
+status: down
+code: 500
+responseTime: 21894
+lastUpdated: 2021-09-04T15:22:17.677Z
 startTime: Sun Aug 01 2021 09:30:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
