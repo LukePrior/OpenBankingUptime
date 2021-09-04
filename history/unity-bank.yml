@@ -1,7 +1,7 @@
 url: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 21778
-lastUpdated: 2021-09-04T15:41:46.616Z
+status: up
+code: 200
+responseTime: 1197
+lastUpdated: 2021-09-04T16:35:00.391Z
 startTime: Sun Aug 01 2021 08:55:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
