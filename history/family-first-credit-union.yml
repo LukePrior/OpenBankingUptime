@@ -1,7 +1,7 @@
 url: https://online.familyfirst.com.au/OpenBanking/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 21890
-lastUpdated: 2021-09-04T15:30:26.245Z
+status: up
+code: 200
+responseTime: 1420
+lastUpdated: 2021-09-04T16:33:04.974Z
 startTime: Sun Aug 01 2021 09:31:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
