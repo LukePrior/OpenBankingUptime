@@ -1,7 +1,7 @@
 url: https://secure.api.virginmoney.com.au/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 635
-lastUpdated: 2021-09-07T23:14:29.576Z
+responseTime: 226
+lastUpdated: 2021-09-08T23:14:51.295Z
 startTime: Sun Aug 01 2021 08:55:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
