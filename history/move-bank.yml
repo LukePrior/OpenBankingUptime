@@ -1,7 +1,7 @@
 url: https://api.movebank.com.au/OpenBanking/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 3733
-lastUpdated: 2021-09-11T11:37:30.519Z
+responseTime: 1616
+lastUpdated: 2021-09-11T23:12:59.823Z
 startTime: Sun Aug 01 2021 08:55:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
