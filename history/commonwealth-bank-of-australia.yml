@@ -1,7 +1,7 @@
 url: https://api.commbank.com.au/public/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 1959
-lastUpdated: 2021-09-26T23:11:27.759Z
+responseTime: 10448
+lastUpdated: 2021-09-27T23:11:52.066Z
 startTime: Wed Aug 04 2021 12:15:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
