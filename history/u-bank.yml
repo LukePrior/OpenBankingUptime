@@ -1,7 +1,7 @@
 url: https://openbank.api.ubank.com.au/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 2280
-lastUpdated: 2021-09-27T23:15:02.581Z
+responseTime: 960
+lastUpdated: 2021-09-29T23:14:33.101Z
 startTime: Sun Aug 01 2021 08:55:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
