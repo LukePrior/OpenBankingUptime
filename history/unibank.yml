@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/unibank/cds-au/v1/banking/products
-status: down
-code: 406
-responseTime: 333
-lastUpdated: 2021-09-30T06:18:49.206Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2021-09-30T06:23:23.148Z
 startTime: Thu Aug 05 2021 09:57:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
