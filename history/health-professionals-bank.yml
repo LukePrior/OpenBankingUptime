@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/hpbank/cds-au/v1/banking/products
-status: down
-code: 406
-responseTime: 277
-lastUpdated: 2021-10-01T05:32:28.962Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2021-10-01T05:37:24.032Z
 startTime: Thu Aug 05 2021 09:57:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
