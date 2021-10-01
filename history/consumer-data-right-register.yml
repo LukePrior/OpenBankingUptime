@@ -1,7 +1,7 @@
 url: https://api.cdr.gov.au/cdr-register/v1/banking/register
 status: up
 code: 200
-responseTime: 193
-lastUpdated: 2021-09-30T23:14:40.475Z
+responseTime: 1820
+lastUpdated: 2021-10-01T10:33:10.809Z
 startTime: Thu Aug 05 2021 09:22:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
