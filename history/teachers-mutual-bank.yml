@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/tmbank/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 707
-lastUpdated: 2021-10-09T12:12:45.110Z
+status: up
+code: 200
+responseTime: 934
+lastUpdated: 2021-10-09T14:48:23.948Z
 startTime: Sun Aug 01 2021 09:52:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
