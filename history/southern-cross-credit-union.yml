@@ -1,7 +1,7 @@
 url: https://mvp1.sccu.com.au/OpenBanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 977
-lastUpdated: 2021-10-13T23:15:55.200Z
+status: down
+code: 500
+responseTime: 955
+lastUpdated: 2021-10-14T08:24:38.985Z
 startTime: Sun Aug 01 2021 09:31:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
