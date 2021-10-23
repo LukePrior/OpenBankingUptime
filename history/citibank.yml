@@ -1,7 +1,7 @@
 url: https://aspac.api.citi.com/gcb/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1311
-lastUpdated: 2021-10-22T23:17:27.032Z
+status: down
+code: 400
+responseTime: 1051
+lastUpdated: 2021-10-23T16:50:29.121Z
 startTime: Sun Aug 01 2021 08:54:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
