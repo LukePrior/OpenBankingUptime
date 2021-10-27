@@ -1,7 +1,7 @@
 url: https://ib.cwcu.com.au/openbanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1053
-lastUpdated: 2021-10-26T23:13:51.933Z
+status: down
+code: 500
+responseTime: 3129
+lastUpdated: 2021-10-27T11:06:33.212Z
 startTime: Sun Aug 01 2021 09:31:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
