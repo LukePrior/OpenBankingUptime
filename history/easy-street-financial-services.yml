@@ -1,7 +1,7 @@
 url: https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1/banking/products
-status: down
-code: 404
-responseTime: 832
-lastUpdated: 2021-10-28T06:11:37.862Z
+status: up
+code: 200
+responseTime: 8607
+lastUpdated: 2021-10-28T06:41:46.853Z
 startTime: Sun Aug 01 2021 09:31:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
