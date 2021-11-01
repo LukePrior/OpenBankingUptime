@@ -1,7 +1,7 @@
 url: https://public-data.cdr.regaustbank.io/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 574
-lastUpdated: 2021-10-31T23:14:57.643Z
+status: down
+code: 502
+responseTime: 261
+lastUpdated: 2021-11-01T19:07:29.463Z
 startTime: Sun Aug 01 2021 08:55:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
