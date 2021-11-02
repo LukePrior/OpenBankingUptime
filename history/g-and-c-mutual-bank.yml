@@ -1,7 +1,7 @@
 url: https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1022
-lastUpdated: 2021-11-01T23:14:21.628Z
+status: down
+code: 503
+responseTime: 704
+lastUpdated: 2021-11-02T22:21:42.846Z
 startTime: Sun Aug 01 2021 08:54:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
