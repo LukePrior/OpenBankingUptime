@@ -1,7 +1,7 @@
 url: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 3636
-lastUpdated: 2021-11-03T22:42:16.605Z
+status: up
+code: 200
+responseTime: 1082
+lastUpdated: 2021-11-03T22:52:05.840Z
 startTime: Sun Aug 01 2021 08:54:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
