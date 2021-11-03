@@ -1,7 +1,7 @@
 url: https://public.cdr.api.beyondbank.com.au/cds-au/v1/banking/products
-status: down
-code: 504
-responseTime: 29991
-lastUpdated: 2021-11-03T18:38:15.266Z
+status: up
+code: 200
+responseTime: 832
+lastUpdated: 2021-11-03T18:46:37.690Z
 startTime: Sun Aug 01 2021 08:22:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
