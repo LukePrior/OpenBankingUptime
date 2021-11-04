@@ -98,6 +98,12 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankchina-icon.png
     headers:
       - "x-v: 3"
+  - name: Bank of Melbourne
+    url: https://digital-api.bankofmelbourne.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankmelbourne-icon.png
+    headers:
+      - "x-v: 3"
   - name: Bank of Sydney
     url: https://openbank.api.banksyd.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
@@ -108,6 +114,12 @@ sites:
     url: https://api.bankofus.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankofus-icon.png
+    headers:
+      - "x-v: 3"
+  - name: BankSA
+    url: https://digital-api.banksa.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/banksa-icon.png
     headers:
       - "x-v: 3"
   - name: BankVic
@@ -205,6 +217,12 @@ sites:
     url: https://public.cdr-api.coastline.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/coastline-icon.png
+    headers:
+      - "x-v: 3"
+  - name: CommBiz
+    url: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/commbiz-icon.png
     headers:
       - "x-v: 3"
   - name: Community First Credit Union
@@ -327,6 +345,12 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/heritage-icon.png
     headers:
       - "x-v: 3"
+  - name: Hiver Bank
+    url: https://ob.tmbl.com.au/hiver/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/hiver-icon.png
+    headers:
+      - "x-v: 3"
   - name: Horizon Bank
     url: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
@@ -403,6 +427,12 @@ sites:
     url: https://api.movebank.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/movebank-icon.png
+    headers:
+      - "x-v: 3"
+  - name: Money by Afterpay
+    url: https://api.cds.afterpay.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/afterpay-icon.png
     headers:
       - "x-v: 3"
   - name: The Mutual Bank
@@ -513,6 +543,12 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/racq-icon.png
     headers:
       - "x-v: 3"
+  - name: RAMS Financial Group
+    url: https://digital-api.westpac.com.au/rams/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rams-icon.png
+    headers:
+      - "x-v: 3"      
   - name: Regional Australia Bank
     url: https://public-data.cdr.regaustbank.io/cds-au/v1/banking/products
     __dangerous__insecure: true
@@ -553,6 +589,12 @@ sites:
     url: https://mvp1.sccu.com.au/OpenBanking/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/sccu-icon.png
+    headers:
+      - "x-v: 3"
+  - name: St.George Bank
+    url: https://digital-api.stgeorge.com.au/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/stgeorge-icon.png
     headers:
       - "x-v: 3"
   - name: Summerland Credit Union
