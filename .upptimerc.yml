@@ -56,6 +56,12 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmilitary-icon.png
     headers:
       - "x-v: 3"
+  - name: Australian Mutual Bank
+    url: https://internetbanking.australianmutual.bank/openbanking/public/cds-au/v1/banking/products
+    __dangerous__insecure: true
+    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmutual-icon.png
+    headers:
+      - "x-v: 3"    
   - name: Australian Unity Bank
     url: https://open-banking.australianunity.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
@@ -235,12 +241,6 @@ sites:
     url: https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/easystreet-icon.png
-    headers:
-      - "x-v: 3"
-  - name: Endeavour Mutual Bank
-    url: https://netbank.endeavour.bank/openbankingesb/cds-au/v1/banking/products
-    __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/endeavour-icon.png
     headers:
       - "x-v: 3"
   - name: Family First Credit Union
@@ -565,12 +565,6 @@ sites:
     url: https://prd.suncorpbank.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/suncorp-icon.png
-    headers:
-      - "x-v: 3"
-  - name: Sydney Mutual Bank
-    url: https://internetbanking.sydneymutual.bank/openbankingscu/cds-au/v1/banking/products
-    __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/sydneymutual-icon.png
     headers:
       - "x-v: 3"
   - name: Teachers Mutual Bank
