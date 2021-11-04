@@ -57,7 +57,7 @@ sites:
     headers:
       - "x-v: 3"
   - name: Australian Mutual Bank
-    url: https://internetbanking.australianmutual.bank/openbanking/public/cds-au/v1/banking/products
+    url: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmutual-icon.png
     headers:
