@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/hiver/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2021-11-04T23:14:18.612Z
+status: down
+code: 500
+responseTime: 180
+lastUpdated: 2021-11-05T09:27:27.072Z
 startTime: Thu Nov 04 2021 10:59:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
