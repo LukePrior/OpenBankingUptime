@@ -1,7 +1,7 @@
 url: https://product.api.policebank.com.au/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1221
-lastUpdated: 2021-11-12T00:08:35.063Z
+status: down
+code: 502
+responseTime: 243
+lastUpdated: 2021-11-12T05:58:19.114Z
 startTime: Sun Aug 01 2021 09:52:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
