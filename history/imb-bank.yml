@@ -1,7 +1,7 @@
 url: https://api.openbanking.imb.com.au/cds-au/v1/banking/products
-status: down
-code: 502
-responseTime: 1878
-lastUpdated: 2021-11-18T13:48:15.010Z
+status: up
+code: 200
+responseTime: 725
+lastUpdated: 2021-11-18T14:12:59.977Z
 startTime: Sun Aug 01 2021 08:54:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
