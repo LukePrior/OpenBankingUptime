@@ -1,7 +1,7 @@
 url: https://api.cdr-api.amp.com.au/cds-au/v1/banking/products
-status: down
-code: 400
-responseTime: 1449
-lastUpdated: 2021-11-20T19:40:57.951Z
+status: up
+code: 200
+responseTime: 1416
+lastUpdated: 2021-11-20T19:50:55.648Z
 startTime: Sun Aug 01 2021 08:00:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
