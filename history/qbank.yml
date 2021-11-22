@@ -1,7 +1,7 @@
 url: https://banking.qbank.com.au/openbanking/cds-au/v1/banking/products
-status: down
-code: 404
-responseTime: 1009
-lastUpdated: 2021-11-22T14:04:48.011Z
+status: up
+code: 200
+responseTime: 1066
+lastUpdated: 2021-11-22T14:13:35.697Z
 startTime: Sun Aug 01 2021 09:52:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
