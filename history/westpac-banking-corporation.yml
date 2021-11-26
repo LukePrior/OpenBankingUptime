@@ -1,7 +1,7 @@
 url: https://digital-api.westpac.com.au/cds-au/v1/banking/products
-status: down
-code: 422
-responseTime: 8089
-lastUpdated: 2021-11-26T05:56:34.811Z
+status: up
+code: 200
+responseTime: 4315
+lastUpdated: 2021-11-26T06:06:21.076Z
 startTime: Wed Aug 04 2021 12:15:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
