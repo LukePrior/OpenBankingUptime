@@ -237,12 +237,6 @@ sites:
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/defensebank-icon.png
     headers:
       - "x-v: 3"
-  - name: Delphi Bank
-    url: https://api.cdr.delphibank.com.au/cds-au/v1/banking/products
-    __dangerous__insecure: true
-    icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/delphi-icon.png
-    headers:
-      - "x-v: 3"
   - name: Dnister Ukrainian Credit Co-operative
     url: https://public.cdr-api.dnister.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
