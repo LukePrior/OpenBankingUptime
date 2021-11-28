@@ -87,7 +87,7 @@ sites:
     headers:
       - "x-v: 3"
   - name: Bank First
-    url: https://ibank.bankfirst.com.au/openbanking/cds-au/v1/banking/products
+    url: https://public.cdr.bankfirst.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankfirst-icon.png
     headers:
@@ -370,7 +370,7 @@ sites:
     headers:
       - "x-v: 3"
   - name: IMB Bank
-    url: https://api.openbanking.imb.com.au/cds-au/v1/banking/products
+    url: https://openbank.openbanking.imb.com.au/cds-au/v1/banking/products
     __dangerous__insecure: true
     icon: https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/imb-icon.png
     headers:
