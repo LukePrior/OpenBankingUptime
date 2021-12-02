@@ -1,7 +1,7 @@
 url: https://public.cdr-api.qudosbank.com.au/cds-au/v1/banking/products
-status: down
-code: 504
-responseTime: 29809
-lastUpdated: 2021-12-02T13:05:11.453Z
+status: up
+code: 200
+responseTime: 6564
+lastUpdated: 2021-12-02T13:15:52.594Z
 startTime: Sun Aug 01 2021 08:55:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
