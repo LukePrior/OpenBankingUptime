@@ -1,7 +1,7 @@
 url: https://online.geelongbank.com.au/OpenBanking/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 2791
-lastUpdated: 2021-12-03T12:07:53.585Z
+status: up
+code: 200
+responseTime: 1139
+lastUpdated: 2021-12-03T12:17:42.670Z
 startTime: Sun Aug 01 2021 08:54:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
