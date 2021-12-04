@@ -13,7 +13,7 @@
     "time": 816,
     "timeDay": 784,
     "timeWeek": 732,
-    "timeMonth": 830,
+    "timeMonth": 847,
     "timeYear": 816,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1821,
     "timeDay": 408,
     "timeWeek": 807,
-    "timeMonth": 1237,
+    "timeMonth": 1208,
     "timeYear": 1821,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1747,
     "timeDay": 899,
     "timeWeek": 1110,
-    "timeMonth": 1884,
+    "timeMonth": 1893,
     "timeYear": 1747,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 5902,
     "timeDay": 3518,
     "timeWeek": 4486,
-    "timeMonth": 5541,
+    "timeMonth": 5451,
     "timeYear": 5902,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1403,
     "timeDay": 1146,
     "timeWeek": 1035,
-    "timeMonth": 1100,
+    "timeMonth": 1108,
     "timeYear": 1403,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1429,
     "timeDay": 1326,
     "timeWeek": 1390,
-    "timeMonth": 1474,
+    "timeMonth": 1456,
     "timeYear": 1429,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1558,
     "timeDay": 1145,
     "timeWeek": 1333,
-    "timeMonth": 1401,
+    "timeMonth": 1384,
     "timeYear": 1558,
     "dailyMinutesDown": {
       "2021-11-21": 76,
@@ -143,7 +143,7 @@
     "time": 1968,
     "timeDay": 1682,
     "timeWeek": 2029,
-    "timeMonth": 2069,
+    "timeMonth": 2076,
     "timeYear": 1968,
     "dailyMinutesDown": {}
   },
@@ -153,18 +153,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/australianmilitary-icon.png",
     "slug": "australian-military-bank",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.11%",
-    "uptimeMonth": "89.44%",
-    "uptimeYear": "97.43%",
+    "uptimeWeek": "53.86%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "97.42%",
     "time": 1215,
     "timeDay": 1045,
     "timeWeek": 1182,
-    "timeMonth": 1180,
+    "timeMonth": 1173,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2021-12-04": 637,
+      "2021-12-04": 662,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1109
@@ -184,7 +184,7 @@
     "time": 1386,
     "timeDay": 1484,
     "timeWeek": 1265,
-    "timeMonth": 1386,
+    "timeMonth": 1391,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2021-11-27": 70,
@@ -205,7 +205,7 @@
     "time": 9995,
     "timeDay": 10417,
     "timeWeek": 10315,
-    "timeMonth": 10760,
+    "timeMonth": 10773,
     "timeYear": 9995,
     "dailyMinutesDown": {
       "2021-12-03": 186,
@@ -230,7 +230,7 @@
     "time": 2325,
     "timeDay": 1405,
     "timeWeek": 2425,
-    "timeMonth": 2673,
+    "timeMonth": 2708,
     "timeYear": 2325,
     "dailyMinutesDown": {
       "2021-11-21": 119,
@@ -250,18 +250,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/awa-icon.png",
     "slug": "awa-alliance-bank",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.82%",
+    "uptimeDay": "77.78%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.82%",
     "time": 1500,
     "timeDay": 1414,
     "timeWeek": 1267,
-    "timeMonth": 1466,
+    "timeMonth": 1458,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2021-12-04": 295
+      "2021-12-04": 320
     }
   },
   {
@@ -270,18 +270,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankaustralia-icon.png",
     "slug": "bank-australia",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.59%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "96.50%",
+    "uptimeWeek": "82.34%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "96.49%",
     "time": 2895,
     "timeDay": 2582,
     "timeWeek": 2465,
-    "timeMonth": 2646,
+    "timeMonth": 2647,
     "timeYear": 2895,
     "dailyMinutesDown": {
-      "2021-12-04": 637,
+      "2021-12-04": 662,
       "2021-12-03": 1118,
       "2021-10-24": 1372,
       "2021-10-23": 1440,
@@ -295,18 +295,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankfirst-icon.png",
     "slug": "bank-first",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.00%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "98.85%",
+    "uptimeWeek": "81.75%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "98.83%",
     "time": 1579,
     "timeDay": 934,
     "timeWeek": 1066,
-    "timeMonth": 1300,
+    "timeMonth": 1289,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2021-12-04": 637,
+      "2021-12-04": 662,
       "2021-12-03": 1118,
       "2021-11-27": 59,
       "2021-09-04": 264
@@ -317,19 +317,19 @@
     "url": "https://obdevp.bank-of-china.net.au/cds-au/v1/banking/products",
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankchina-icon.png",
     "slug": "bank-of-china-australia",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "70.39%",
-    "uptimeWeek": "75.48%",
-    "uptimeMonth": "94.36%",
-    "uptimeYear": "98.63%",
+    "status": "up",
+    "uptime": "98.62%",
+    "uptimeDay": "70.00%",
+    "uptimeWeek": "75.28%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "98.62%",
     "time": 685,
-    "timeDay": 288,
+    "timeDay": 291,
     "timeWeek": 286,
-    "timeMonth": 313,
+    "timeMonth": 312,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2021-12-04": 153,
+      "2021-12-04": 174,
       "2021-12-03": 609,
       "2021-12-02": 366,
       "2021-12-01": 528,
@@ -351,7 +351,7 @@
     "time": 4547,
     "timeDay": 3403,
     "timeWeek": 2978,
-    "timeMonth": 4547,
+    "timeMonth": 4564,
     "timeYear": 4547,
     "dailyMinutesDown": {}
   },
@@ -369,7 +369,7 @@
     "time": 2082,
     "timeDay": 1430,
     "timeWeek": 1419,
-    "timeMonth": 1517,
+    "timeMonth": 1511,
     "timeYear": 2082,
     "dailyMinutesDown": {
       "2021-10-24": 1372,
@@ -384,15 +384,15 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/bankofus-icon.png",
     "slug": "bank-of-us",
     "status": "up",
-    "uptime": "91.36%",
+    "uptime": "91.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "75.67%",
     "uptimeMonth": "81.57%",
-    "uptimeYear": "91.36%",
+    "uptimeYear": "91.37%",
     "time": 1315,
     "timeDay": 1199,
     "timeWeek": 1139,
-    "timeMonth": 1159,
+    "timeMonth": 1160,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2021-12-02": 18,
@@ -428,7 +428,7 @@
     "time": 4255,
     "timeDay": 3284,
     "timeWeek": 3621,
-    "timeMonth": 4255,
+    "timeMonth": 4052,
     "timeYear": 4255,
     "dailyMinutesDown": {}
   },
@@ -446,7 +446,7 @@
     "time": 2372,
     "timeDay": 960,
     "timeWeek": 2842,
-    "timeMonth": 2924,
+    "timeMonth": 2985,
     "timeYear": 2372,
     "dailyMinutesDown": {
       "2021-11-27": 59,
@@ -475,7 +475,7 @@
     "time": 1846,
     "timeDay": 605,
     "timeWeek": 910,
-    "timeMonth": 1180,
+    "timeMonth": 1163,
     "timeYear": 1846,
     "dailyMinutesDown": {}
   },
@@ -493,7 +493,7 @@
     "time": 1169,
     "timeDay": 847,
     "timeWeek": 1106,
-    "timeMonth": 1147,
+    "timeMonth": 1146,
     "timeYear": 1169,
     "dailyMinutesDown": {
       "2021-11-30": 95
@@ -513,7 +513,7 @@
     "time": 1141,
     "timeDay": 1060,
     "timeWeek": 1088,
-    "timeMonth": 1234,
+    "timeMonth": 1225,
     "timeYear": 1141,
     "dailyMinutesDown": {}
   },
@@ -555,7 +555,7 @@
     "time": 2409,
     "timeDay": 790,
     "timeWeek": 1000,
-    "timeMonth": 3890,
+    "timeMonth": 3991,
     "timeYear": 2409,
     "dailyMinutesDown": {}
   },
@@ -573,7 +573,7 @@
     "time": 543,
     "timeDay": 88,
     "timeWeek": 349,
-    "timeMonth": 630,
+    "timeMonth": 600,
     "timeYear": 543,
     "dailyMinutesDown": {}
   },
@@ -591,7 +591,7 @@
     "time": 366,
     "timeDay": 106,
     "timeWeek": 338,
-    "timeMonth": 423,
+    "timeMonth": 397,
     "timeYear": 366,
     "dailyMinutesDown": {}
   },
@@ -609,7 +609,7 @@
     "time": 1874,
     "timeDay": 2156,
     "timeWeek": 1941,
-    "timeMonth": 1734,
+    "timeMonth": 1770,
     "timeYear": 1874,
     "dailyMinutesDown": {}
   },
@@ -619,15 +619,15 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/cairnsbank-icon.png",
     "slug": "cairns-bank",
     "status": "up",
-    "uptime": "20.01%",
+    "uptime": "20.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.67%",
-    "uptimeYear": "20.01%",
+    "uptimeMonth": "83.73%",
+    "uptimeYear": "20.02%",
     "time": 1332,
     "timeDay": 1460,
     "timeWeek": 1791,
-    "timeMonth": 2048,
+    "timeMonth": 2075,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2021-11-21": 149,
@@ -748,7 +748,7 @@
     "time": 1532,
     "timeDay": 1271,
     "timeWeek": 2184,
-    "timeMonth": 1544,
+    "timeMonth": 1550,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2021-11-30": 60,
@@ -778,7 +778,7 @@
     "time": 1842,
     "timeDay": 1128,
     "timeWeek": 2385,
-    "timeMonth": 1667,
+    "timeMonth": 1674,
     "timeYear": 1842,
     "dailyMinutesDown": {
       "2021-11-27": 58,
@@ -814,7 +814,7 @@
     "time": 1478,
     "timeDay": 986,
     "timeWeek": 4060,
-    "timeMonth": 2100,
+    "timeMonth": 2125,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2021-11-27": 58,
@@ -848,7 +848,7 @@
     "time": 1128,
     "timeDay": 976,
     "timeWeek": 1226,
-    "timeMonth": 1190,
+    "timeMonth": 1187,
     "timeYear": 1128,
     "dailyMinutesDown": {}
   },
@@ -866,7 +866,7 @@
     "time": 1261,
     "timeDay": 1293,
     "timeWeek": 1079,
-    "timeMonth": 1286,
+    "timeMonth": 1264,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2021-10-23": 15,
@@ -893,7 +893,7 @@
     "time": 1536,
     "timeDay": 1390,
     "timeWeek": 1107,
-    "timeMonth": 1443,
+    "timeMonth": 1459,
     "timeYear": 1536,
     "dailyMinutesDown": {
       "2021-10-16": 19
@@ -913,7 +913,7 @@
     "time": 1647,
     "timeDay": 1142,
     "timeWeek": 1206,
-    "timeMonth": 1372,
+    "timeMonth": 1366,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2021-11-27": 57,
@@ -953,7 +953,7 @@
     "time": 1149,
     "timeDay": 1001,
     "timeWeek": 978,
-    "timeMonth": 1123,
+    "timeMonth": 1117,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2021-08-22": 287,
@@ -976,7 +976,7 @@
     "time": 1016,
     "timeDay": 966,
     "timeWeek": 993,
-    "timeMonth": 1029,
+    "timeMonth": 1023,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2021-08-04": 352,
@@ -999,7 +999,7 @@
     "time": 1480,
     "timeDay": 1123,
     "timeWeek": 881,
-    "timeMonth": 1217,
+    "timeMonth": 1222,
     "timeYear": 1480,
     "dailyMinutesDown": {}
   },
@@ -1011,13 +1011,13 @@
     "status": "up",
     "uptime": "85.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.81%",
+    "uptimeWeek": "96.06%",
     "uptimeMonth": "83.00%",
     "uptimeYear": "85.48%",
     "time": 1806,
     "timeDay": 1162,
     "timeWeek": 2884,
-    "timeMonth": 2568,
+    "timeMonth": 2605,
     "timeYear": 1806,
     "dailyMinutesDown": {
       "2021-11-27": 1060,
@@ -1062,7 +1062,7 @@
     "time": 1334,
     "timeDay": 1013,
     "timeWeek": 1293,
-    "timeMonth": 1132,
+    "timeMonth": 1131,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2021-11-27": 57,
@@ -1084,7 +1084,7 @@
     "time": 956,
     "timeDay": 268,
     "timeWeek": 754,
-    "timeMonth": 909,
+    "timeMonth": 908,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2021-11-05": 616,
@@ -1108,7 +1108,7 @@
     "time": 1601,
     "timeDay": 1336,
     "timeWeek": 1155,
-    "timeMonth": 1580,
+    "timeMonth": 1602,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2021-10-16": 23
@@ -1128,7 +1128,7 @@
     "time": 1712,
     "timeDay": 1529,
     "timeWeek": 1210,
-    "timeMonth": 1377,
+    "timeMonth": 1389,
     "timeYear": 1712,
     "dailyMinutesDown": {
       "2021-11-01": 40
@@ -1148,7 +1148,7 @@
     "time": 1250,
     "timeDay": 1129,
     "timeWeek": 1264,
-    "timeMonth": 1210,
+    "timeMonth": 1208,
     "timeYear": 1250,
     "dailyMinutesDown": {
       "2021-11-27": 17,
@@ -1177,7 +1177,7 @@
     "time": 1358,
     "timeDay": 1004,
     "timeWeek": 1095,
-    "timeMonth": 1112,
+    "timeMonth": 1110,
     "timeYear": 1358,
     "dailyMinutesDown": {
       "2021-11-27": 57,
@@ -1202,7 +1202,7 @@
     "time": 1302,
     "timeDay": 967,
     "timeWeek": 967,
-    "timeMonth": 1224,
+    "timeMonth": 1230,
     "timeYear": 1302,
     "dailyMinutesDown": {}
   },
@@ -1220,7 +1220,7 @@
     "time": 1466,
     "timeDay": 1628,
     "timeWeek": 1287,
-    "timeMonth": 1176,
+    "timeMonth": 1170,
     "timeYear": 1466,
     "dailyMinutesDown": {
       "2021-11-27": 57,
@@ -1255,7 +1255,7 @@
     "time": 946,
     "timeDay": 640,
     "timeWeek": 842,
-    "timeMonth": 956,
+    "timeMonth": 955,
     "timeYear": 946,
     "dailyMinutesDown": {}
   },
@@ -1273,7 +1273,7 @@
     "time": 2078,
     "timeDay": 970,
     "timeWeek": 833,
-    "timeMonth": 1202,
+    "timeMonth": 1173,
     "timeYear": 2078,
     "dailyMinutesDown": {
       "2021-10-24": 1372,
@@ -1296,7 +1296,7 @@
     "time": 1652,
     "timeDay": 1476,
     "timeWeek": 1596,
-    "timeMonth": 4430,
+    "timeMonth": 4517,
     "timeYear": 1652,
     "dailyMinutesDown": {}
   },
@@ -1314,7 +1314,7 @@
     "time": 1445,
     "timeDay": 1469,
     "timeWeek": 1556,
-    "timeMonth": 1516,
+    "timeMonth": 1518,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2021-12-04": 156,
@@ -1329,15 +1329,15 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/healthprofessionals-icon.png",
     "slug": "health-professionals-bank",
     "status": "up",
-    "uptime": "90.02%",
+    "uptime": "90.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "90.02%",
+    "uptimeYear": "90.03%",
     "time": 758,
     "timeDay": 228,
     "timeWeek": 390,
-    "timeMonth": 597,
+    "timeMonth": 587,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2021-11-05": 616,
@@ -1373,7 +1373,7 @@
     "time": 1386,
     "timeDay": 2033,
     "timeWeek": 2018,
-    "timeMonth": 1848,
+    "timeMonth": 1843,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2021-10-16": 17
@@ -1393,7 +1393,7 @@
     "time": 393,
     "timeDay": 199,
     "timeWeek": 389,
-    "timeMonth": 393,
+    "timeMonth": 383,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2021-11-05": 616
@@ -1413,7 +1413,7 @@
     "time": 1570,
     "timeDay": 983,
     "timeWeek": 2942,
-    "timeMonth": 2161,
+    "timeMonth": 2197,
     "timeYear": 1570,
     "dailyMinutesDown": {
       "2021-11-27": 56,
@@ -1449,7 +1449,7 @@
     "time": 1665,
     "timeDay": 1418,
     "timeWeek": 1194,
-    "timeMonth": 1683,
+    "timeMonth": 1646,
     "timeYear": 1665,
     "dailyMinutesDown": {}
   },
@@ -1467,7 +1467,7 @@
     "time": 758,
     "timeDay": 833,
     "timeWeek": 758,
-    "timeMonth": 809,
+    "timeMonth": 814,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2021-08-22": 287,
@@ -1488,7 +1488,7 @@
     "time": 1425,
     "timeDay": 956,
     "timeWeek": 2655,
-    "timeMonth": 2175,
+    "timeMonth": 2203,
     "timeYear": 1425,
     "dailyMinutesDown": {
       "2021-11-27": 41,
@@ -1512,7 +1512,7 @@
     "time": 2264,
     "timeDay": 1578,
     "timeWeek": 1215,
-    "timeMonth": 3875,
+    "timeMonth": 3917,
     "timeYear": 2264,
     "dailyMinutesDown": {
       "2021-11-26": 314,
@@ -1546,7 +1546,7 @@
     "time": 1323,
     "timeDay": 907,
     "timeWeek": 847,
-    "timeMonth": 896,
+    "timeMonth": 894,
     "timeYear": 1323,
     "dailyMinutesDown": {}
   },
@@ -1564,7 +1564,7 @@
     "time": 1153,
     "timeDay": 765,
     "timeWeek": 777,
-    "timeMonth": 867,
+    "timeMonth": 858,
     "timeYear": 1153,
     "dailyMinutesDown": {}
   },
@@ -1582,7 +1582,7 @@
     "time": 1464,
     "timeDay": 964,
     "timeWeek": 2701,
-    "timeMonth": 1778,
+    "timeMonth": 1799,
     "timeYear": 1464,
     "dailyMinutesDown": {
       "2021-11-27": 41,
@@ -1606,7 +1606,7 @@
     "time": 1031,
     "timeDay": 954,
     "timeWeek": 952,
-    "timeMonth": 1052,
+    "timeMonth": 1035,
     "timeYear": 1031,
     "dailyMinutesDown": {}
   },
@@ -1624,7 +1624,7 @@
     "time": 1043,
     "timeDay": 1093,
     "timeWeek": 674,
-    "timeMonth": 930,
+    "timeMonth": 912,
     "timeYear": 1043,
     "dailyMinutesDown": {}
   },
@@ -1642,7 +1642,7 @@
     "time": 2857,
     "timeDay": 964,
     "timeWeek": 5349,
-    "timeMonth": 3858,
+    "timeMonth": 3921,
     "timeYear": 2857,
     "dailyMinutesDown": {
       "2021-12-03": 504,
@@ -1665,13 +1665,13 @@
     "status": "up",
     "uptime": "96.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.49%",
+    "uptimeWeek": "87.73%",
     "uptimeMonth": "84.16%",
     "uptimeYear": "96.15%",
     "time": 1062,
     "timeDay": 766,
     "timeWeek": 994,
-    "timeMonth": 1082,
+    "timeMonth": 1083,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2021-11-28": 459,
@@ -1688,18 +1688,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/movebank-icon.png",
     "slug": "move-bank",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "96.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.82%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "96.99%",
+    "uptimeWeek": "82.57%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "96.98%",
     "time": 2897,
     "timeDay": 1695,
     "timeWeek": 1735,
-    "timeMonth": 2384,
+    "timeMonth": 2393,
     "timeYear": 2897,
     "dailyMinutesDown": {
-      "2021-12-04": 638,
+      "2021-12-04": 663,
       "2021-12-03": 1094,
       "2021-11-22": 124,
       "2021-11-21": 811,
@@ -1733,7 +1733,7 @@
     "time": 996,
     "timeDay": 625,
     "timeWeek": 767,
-    "timeMonth": 996,
+    "timeMonth": 992,
     "timeYear": 996,
     "dailyMinutesDown": {}
   },
@@ -1751,7 +1751,7 @@
     "time": 2067,
     "timeDay": 887,
     "timeWeek": 7337,
-    "timeMonth": 2951,
+    "timeMonth": 3026,
     "timeYear": 2067,
     "dailyMinutesDown": {
       "2021-12-03": 19,
@@ -1777,7 +1777,7 @@
     "time": 1659,
     "timeDay": 779,
     "timeWeek": 813,
-    "timeMonth": 806,
+    "timeMonth": 803,
     "timeYear": 1659,
     "dailyMinutesDown": {
       "2021-10-02": 146
@@ -1797,7 +1797,7 @@
     "time": 1605,
     "timeDay": 970,
     "timeWeek": 1044,
-    "timeMonth": 1161,
+    "timeMonth": 1151,
     "timeYear": 1605,
     "dailyMinutesDown": {
       "2021-10-28": 49,
@@ -1821,7 +1821,7 @@
     "time": 1550,
     "timeDay": 982,
     "timeWeek": 1341,
-    "timeMonth": 1498,
+    "timeMonth": 1474,
     "timeYear": 1550,
     "dailyMinutesDown": {}
   },
@@ -1839,7 +1839,7 @@
     "time": 2739,
     "timeDay": 3420,
     "timeWeek": 3957,
-    "timeMonth": 3887,
+    "timeMonth": 3877,
     "timeYear": 2739,
     "dailyMinutesDown": {
       "2021-10-24": 1373,
@@ -1880,7 +1880,7 @@
     "time": 830,
     "timeDay": 715,
     "timeWeek": 773,
-    "timeMonth": 851,
+    "timeMonth": 840,
     "timeYear": 830,
     "dailyMinutesDown": {}
   },
@@ -1890,15 +1890,15 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/orangecredit-icon.png",
     "slug": "orange-credit-union",
     "status": "up",
-    "uptime": "24.77%",
+    "uptime": "24.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "24.77%",
+    "uptimeYear": "24.78%",
     "time": 1322,
     "timeDay": 1082,
     "timeWeek": 2723,
-    "timeMonth": 2750,
+    "timeMonth": 2798,
     "timeYear": 1322,
     "dailyMinutesDown": {
       "2021-11-27": 41,
@@ -2029,7 +2029,7 @@
     "time": 1177,
     "timeDay": 1101,
     "timeWeek": 1091,
-    "timeMonth": 1162,
+    "timeMonth": 1154,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2021-10-16": 22
@@ -2049,7 +2049,7 @@
     "time": 1210,
     "timeDay": 1214,
     "timeWeek": 1111,
-    "timeMonth": 1096,
+    "timeMonth": 1086,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2021-09-11": 30
@@ -2069,7 +2069,7 @@
     "time": 1524,
     "timeDay": 1237,
     "timeWeek": 1172,
-    "timeMonth": 1336,
+    "timeMonth": 1333,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2021-11-12": 19,
@@ -2092,7 +2092,7 @@
     "time": 1134,
     "timeDay": 925,
     "timeWeek": 1055,
-    "timeMonth": 1138,
+    "timeMonth": 1131,
     "timeYear": 1134,
     "dailyMinutesDown": {
       "2021-11-30": 94
@@ -2106,13 +2106,13 @@
     "status": "up",
     "uptime": "81.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.71%",
+    "uptimeWeek": "95.96%",
     "uptimeMonth": "87.11%",
     "uptimeYear": "81.75%",
     "time": 1174,
     "timeDay": 978,
     "timeWeek": 1064,
-    "timeMonth": 1118,
+    "timeMonth": 1113,
     "timeYear": 1174,
     "dailyMinutesDown": {
       "2021-11-27": 1070,
@@ -2160,7 +2160,7 @@
     "time": 2097,
     "timeDay": 6355,
     "timeWeek": 8330,
-    "timeMonth": 3489,
+    "timeMonth": 3584,
     "timeYear": 2097,
     "dailyMinutesDown": {}
   },
@@ -2178,7 +2178,7 @@
     "time": 1413,
     "timeDay": 1317,
     "timeWeek": 1083,
-    "timeMonth": 1342,
+    "timeMonth": 1361,
     "timeYear": 1413,
     "dailyMinutesDown": {
       "2021-11-02": 279,
@@ -2206,7 +2206,7 @@
     "time": 910,
     "timeDay": 601,
     "timeWeek": 715,
-    "timeMonth": 777,
+    "timeMonth": 738,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2021-08-27": 25
@@ -2226,7 +2226,7 @@
     "time": 2711,
     "timeDay": 2131,
     "timeWeek": 2231,
-    "timeMonth": 2356,
+    "timeMonth": 2340,
     "timeYear": 2711,
     "dailyMinutesDown": {
       "2021-10-24": 1373,
@@ -2243,13 +2243,13 @@
     "status": "up",
     "uptime": "93.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.47%",
+    "uptimeWeek": "87.72%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "93.05%",
     "time": 3901,
     "timeDay": 3082,
     "timeWeek": 3369,
-    "timeMonth": 3901,
+    "timeMonth": 3903,
     "timeYear": 3901,
     "dailyMinutesDown": {
       "2021-11-28": 461,
@@ -2263,18 +2263,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/rab-icon.png",
     "slug": "regional-australia-bank",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.08%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "96.69%",
+    "uptimeWeek": "66.84%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "96.68%",
     "time": 702,
     "timeDay": 389,
     "timeWeek": 526,
-    "timeMonth": 671,
+    "timeMonth": 682,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2021-12-04": 638,
+      "2021-12-04": 663,
       "2021-12-03": 1440,
       "2021-12-02": 1240,
       "2021-10-23": 1162,
@@ -2296,7 +2296,7 @@
     "time": 969,
     "timeDay": 873,
     "timeWeek": 864,
-    "timeMonth": 932,
+    "timeMonth": 925,
     "timeYear": 969,
     "dailyMinutesDown": {}
   },
@@ -2314,7 +2314,7 @@
     "time": 1325,
     "timeDay": 1186,
     "timeWeek": 1240,
-    "timeMonth": 1369,
+    "timeMonth": 1355,
     "timeYear": 1325,
     "dailyMinutesDown": {}
   },
@@ -2332,7 +2332,7 @@
     "time": 1072,
     "timeDay": 956,
     "timeWeek": 1038,
-    "timeMonth": 1099,
+    "timeMonth": 1093,
     "timeYear": 1072,
     "dailyMinutesDown": {}
   },
@@ -2350,7 +2350,7 @@
     "time": 1444,
     "timeDay": 1296,
     "timeWeek": 1325,
-    "timeMonth": 1300,
+    "timeMonth": 1296,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2021-11-12": 29,
@@ -2384,7 +2384,7 @@
     "time": 1908,
     "timeDay": 948,
     "timeWeek": 4401,
-    "timeMonth": 2947,
+    "timeMonth": 3000,
     "timeYear": 1908,
     "dailyMinutesDown": {
       "2021-11-27": 184,
@@ -2409,7 +2409,7 @@
     "time": 1223,
     "timeDay": 1591,
     "timeWeek": 1659,
-    "timeMonth": 1621,
+    "timeMonth": 1658,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2021-11-02": 279,
@@ -2437,7 +2437,7 @@
     "time": 3985,
     "timeDay": 3301,
     "timeWeek": 2983,
-    "timeMonth": 3985,
+    "timeMonth": 3984,
     "timeYear": 3985,
     "dailyMinutesDown": {}
   },
@@ -2455,7 +2455,7 @@
     "time": 1436,
     "timeDay": 1207,
     "timeWeek": 1011,
-    "timeMonth": 1121,
+    "timeMonth": 1115,
     "timeYear": 1436,
     "dailyMinutesDown": {
       "2021-10-16": 17
@@ -2475,7 +2475,7 @@
     "time": 1089,
     "timeDay": 964,
     "timeWeek": 1004,
-    "timeMonth": 1075,
+    "timeMonth": 1071,
     "timeYear": 1089,
     "dailyMinutesDown": {}
   },
@@ -2493,7 +2493,7 @@
     "time": 909,
     "timeDay": 581,
     "timeWeek": 589,
-    "timeMonth": 781,
+    "timeMonth": 785,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2021-11-05": 611,
@@ -2516,7 +2516,7 @@
     "time": 1292,
     "timeDay": 1100,
     "timeWeek": 1102,
-    "timeMonth": 1110,
+    "timeMonth": 1102,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2021-11-27": 62,
@@ -2539,7 +2539,7 @@
     "time": 1103,
     "timeDay": 964,
     "timeWeek": 992,
-    "timeMonth": 1100,
+    "timeMonth": 1094,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2021-08-01": 74
@@ -2553,13 +2553,13 @@
     "status": "up",
     "uptime": "86.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.70%",
+    "uptimeWeek": "95.95%",
     "uptimeMonth": "82.97%",
     "uptimeYear": "86.98%",
     "time": 1739,
     "timeDay": 957,
     "timeWeek": 2315,
-    "timeMonth": 1615,
+    "timeMonth": 1633,
     "timeYear": 1739,
     "dailyMinutesDown": {
       "2021-11-27": 1072,
@@ -2600,7 +2600,7 @@
     "time": 1107,
     "timeDay": 707,
     "timeWeek": 945,
-    "timeMonth": 1073,
+    "timeMonth": 1068,
     "timeYear": 1107,
     "dailyMinutesDown": {}
   },
@@ -2618,7 +2618,7 @@
     "time": 1348,
     "timeDay": 1029,
     "timeWeek": 1067,
-    "timeMonth": 1096,
+    "timeMonth": 1091,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2021-11-13": 361,
@@ -2644,7 +2644,7 @@
     "time": 741,
     "timeDay": 241,
     "timeWeek": 369,
-    "timeMonth": 688,
+    "timeMonth": 680,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2021-11-05": 610,
@@ -2668,7 +2668,7 @@
     "time": 1580,
     "timeDay": 1187,
     "timeWeek": 1146,
-    "timeMonth": 1308,
+    "timeMonth": 1311,
     "timeYear": 1580,
     "dailyMinutesDown": {
       "2021-11-27": 74,
@@ -2696,7 +2696,7 @@
     "time": 302,
     "timeDay": 237,
     "timeWeek": 245,
-    "timeMonth": 278,
+    "timeMonth": 277,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2021-11-16": 19
@@ -2716,7 +2716,7 @@
     "time": 524,
     "timeDay": 169,
     "timeWeek": 385,
-    "timeMonth": 554,
+    "timeMonth": 502,
     "timeYear": 524,
     "dailyMinutesDown": {}
   },
@@ -2734,7 +2734,7 @@
     "time": 1612,
     "timeDay": 1390,
     "timeWeek": 704,
-    "timeMonth": 1122,
+    "timeMonth": 1143,
     "timeYear": 1612,
     "dailyMinutesDown": {}
   },
@@ -2752,7 +2752,7 @@
     "time": 1661,
     "timeDay": 1264,
     "timeWeek": 1535,
-    "timeMonth": 1470,
+    "timeMonth": 1476,
     "timeYear": 1661,
     "dailyMinutesDown": {
       "2021-10-28": 40,
@@ -2769,15 +2769,15 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/waw-icon.png",
     "slug": "waw-credit-union",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.70%",
+    "uptimeWeek": "95.95%",
     "uptimeMonth": "87.65%",
-    "uptimeYear": "96.67%",
+    "uptimeYear": "96.68%",
     "time": 1469,
     "timeDay": 1334,
     "timeWeek": 1430,
-    "timeMonth": 1357,
+    "timeMonth": 1352,
     "timeYear": 1469,
     "dailyMinutesDown": {
       "2021-11-27": 1072,
@@ -2799,18 +2799,18 @@
     "icon": "https://raw.githubusercontent.com/LukePrior/OpenBankingUptime/master/assets/wtm-icon.png",
     "slug": "woolworths-team-bank",
     "status": "up",
-    "uptime": "95.16%",
+    "uptime": "95.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "76.38%",
-    "uptimeMonth": "80.28%",
-    "uptimeYear": "95.16%",
+    "uptimeMonth": "80.23%",
+    "uptimeYear": "95.14%",
     "time": 1346,
     "timeDay": 1166,
     "timeWeek": 1458,
-    "timeMonth": 1280,
+    "timeMonth": 1282,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2021-12-04": 639,
+      "2021-12-04": 663,
       "2021-12-03": 1234,
       "2021-11-30": 75,
       "2021-11-27": 1072,
@@ -2838,7 +2838,7 @@
     "time": 1084,
     "timeDay": 283,
     "timeWeek": 663,
-    "timeMonth": 1180,
+    "timeMonth": 1142,
     "timeYear": 1084,
     "dailyMinutesDown": {}
   }
