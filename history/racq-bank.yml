@@ -1,7 +1,7 @@
 url: https://cdrbank.racq.com.au/cds-au/v1/banking/products
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-12-07T07:53:54.759Z
+status: up
+code: 200
+responseTime: 2872
+lastUpdated: 2021-12-07T08:39:39.180Z
 startTime: Sun Aug 01 2021 08:55:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
