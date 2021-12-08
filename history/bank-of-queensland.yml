@@ -1,7 +1,7 @@
 url: https://secure.api.boq.com.au/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 121
-lastUpdated: 2021-12-07T23:14:29.703Z
+status: down
+code: 404
+responseTime: 1322
+lastUpdated: 2021-12-08T10:22:34.015Z
 startTime: Wed Aug 04 2021 12:15:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
