@@ -1,7 +1,7 @@
 url: https://ob-api.pnbank.com.au/cds-au/v1/banking/products
 status: down
-code: 500
-responseTime: 1011
-lastUpdated: 2021-12-08T05:19:05.857Z
+code: 0
+responseTime: 0
+lastUpdated: 2021-12-08T23:15:09.755Z
 startTime: Sun Aug 01 2021 09:52:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
