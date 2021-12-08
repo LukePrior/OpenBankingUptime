@@ -1,7 +1,7 @@
 url: https://online.swscu.com.au/OpenBanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1188
-lastUpdated: 2021-12-07T23:16:23.182Z
+status: down
+code: 500
+responseTime: 11459
+lastUpdated: 2021-12-08T02:09:35.853Z
 startTime: Sun Aug 01 2021 09:31:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
