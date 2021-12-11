@@ -1,7 +1,7 @@
 url: https://api.peopleschoice.com.au/public/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1016
-lastUpdated: 2021-12-10T23:14:50.620Z
+status: down
+code: 504
+responseTime: 9113
+lastUpdated: 2021-12-11T11:04:08.255Z
 startTime: Sun Aug 01 2021 09:31:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
