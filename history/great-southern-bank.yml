@@ -1,7 +1,7 @@
 url: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1/banking/products
-status: down
-code: 500
-responseTime: 766
-lastUpdated: 2022-01-05T20:13:01.250Z
+status: up
+code: 200
+responseTime: 1969
+lastUpdated: 2022-01-05T20:22:56.122Z
 startTime: Sun Aug 01 2021 09:31:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
