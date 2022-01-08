@@ -1,7 +1,7 @@
 url: https://public.cdr-api.greater.com.au/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 1100
-lastUpdated: 2022-01-08T06:42:11.892Z
+status: down
+code: 403
+responseTime: 797
+lastUpdated: 2022-01-08T07:12:07.846Z
 startTime: Sun Aug 01 2021 08:54:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
