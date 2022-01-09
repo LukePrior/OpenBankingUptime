@@ -1,7 +1,7 @@
 url: https://api.anz/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 629
-lastUpdated: 2022-01-07T23:13:23.361Z
+responseTime: 590
+lastUpdated: 2022-01-09T23:12:57.740Z
 startTime: Wed Aug 04 2021 12:15:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
