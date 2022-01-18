@@ -1,7 +1,7 @@
 url: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1/banking/products
-status: up
-code: 200
-responseTime: 875
-lastUpdated: 2022-01-17T23:15:16.638Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-01-18T05:44:33.968Z
 startTime: Thu Aug 05 2021 09:57:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
