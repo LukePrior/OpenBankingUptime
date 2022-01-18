@@ -1,7 +1,7 @@
 url: https://api.macquariebank.io/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 587
-lastUpdated: 2022-01-17T23:15:09.148Z
+responseTime: 1019
+lastUpdated: 2022-01-18T23:13:15.202Z
 startTime: Sun Aug 01 2021 08:00:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
