@@ -1,7 +1,7 @@
 url: https://api.paypal.com/v1/identity/cds-au/v1/banking/products
 status: up
 code: 200
-responseTime: 227
-lastUpdated: 2022-01-18T23:13:40.160Z
+responseTime: 292
+lastUpdated: 2022-01-19T23:14:26.622Z
 startTime: Thu Aug 05 2021 09:57:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
