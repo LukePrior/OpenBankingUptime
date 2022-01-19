@@ -1,7 +1,7 @@
 url: https://obdevp.bank-of-china.net.au/cds-au/v1/banking/products
-status: down
-code: 502
-responseTime: 668
-lastUpdated: 2022-01-19T03:06:28.414Z
+status: up
+code: 200
+responseTime: 1420
+lastUpdated: 2022-01-19T03:16:31.382Z
 startTime: Sun Aug 01 2021 08:22:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
