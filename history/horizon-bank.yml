@@ -1,7 +1,7 @@
 url: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1/banking/products
-status: down
-code: 404
-responseTime: 847
-lastUpdated: 2022-01-19T03:27:52.378Z
+status: up
+code: 200
+responseTime: 13855
+lastUpdated: 2022-01-19T03:42:42.210Z
 startTime: Sun Aug 01 2021 08:54:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
