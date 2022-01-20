@@ -1,3 +1,5 @@
+# This repository has been archived since several servers have begun blocking the GitHub Actions IP addresses making this solution for monitoring uptime ineffective. I would recommend looking at the reports from Frollo instead: https://frollo.com.au/open-banking/open-banking-api-performance/
+
 # [📈 Live Status](https://LukePrior.github.io/OpenBankingUptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for the [Australian Open Banking Data Database
